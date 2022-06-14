@@ -1,0 +1,160 @@
+@import url("https://fonts.googleapis.com/css2?family=Sacramento&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital@1&family=Sacramento&display=swap");
+.carddiv {
+  width: 100%;
+  height: 65rem;
+  display: grid;
+  background-color: rgb(238, 228, 240);
+}
+.carotext {
+  text-align: center;
+  position: relative;
+  /* font-family: "Sacramento", cursive;
+  padding-top: 3%;
+  text-align: center;
+  font-size: 450%;
+  color: rgb(138, 120, 71); */
+}
+.card1h1 {
+  font-family: "Sacramento", cursive;
+  padding-top: 3%;
+  text-align: center;
+  font-size: 450%;
+  color: rgb(138, 120, 71);
+}
+.card1h4 {
+  text-align: left;
+  padding-left: 10%;
+  padding-right: 10%;
+  font-size: 200%;
+  color: rgb(138, 120, 71);
+
+  font-family: "Libre Baskerville", serif;
+}
+.carddiv2 {
+  width: 100%;
+  height: 68rem;
+
+  /* padding-bottom: 5%;
+  padding-top: 10%; */
+  /* background-color: lightblue; */
+}
+.testimonialdiv {
+  width: 100%;
+  height: 40rem;
+  display: grid;
+  background-color: rgb(231, 222, 233);
+}
+.testimonial {
+  font-family: "Sacramento", cursive;
+  padding-top: 3%;
+  text-align: center;
+  font-size: 450%;
+  color: rgb(138, 120, 71);
+}
+.testimonialpara {
+  text-align: left;
+  padding-left: 10%;
+  padding-right: 10%;
+  font-size: 200%;
+  color: rgb(138, 120, 71);
+
+  font-family: "Libre Baskerville", serif;
+}
+.instafollowdiv {
+  width: 100%;
+  height: 40rem;
+  display: grid;
+  background-color: rgb(245, 244, 245);
+}
+
+.card1 {
+  width: 100%;
+
+  padding-top: 0%;
+  margin-left: 10%;
+  margin-top: 8%;
+  margin-bottom: 0;
+  align-items: center;
+  background-color: rgb(196, 166, 166);
+}
+.ca2 {
+  width: 100%;
+  padding-bottom: 2%;
+  padding-left: 2%;
+  padding-right: 2%;
+  padding-top: 2%;
+  margin-left: 50%;
+  margin-bottom: 50%;
+  margin-top: -33%;
+  align-items: center;
+}
+.card3 {
+  width: 100%;
+  margin-top: 3%;
+  padding-top: 0%;
+  margin-left: 10%;
+  padding-bottom: 2%;
+  padding-left: 2%;
+  padding-right: 2%;
+  padding-top: 2%;
+}
+.card3h2 {
+  font-family: "Sacramento", cursive;
+  padding-top: 3%;
+  text-align: center;
+  font-size: 450%;
+  color: rgb(138, 120, 71);
+}
+.card4 {
+  /* margin-top: -40.7%; */
+  width: 100%;
+  padding-bottom: 2%;
+  padding-left: 2%;
+  padding-right: 2%;
+  padding-top: 2%;
+  margin-left: 58%;
+  margin-bottom: 10%;
+  margin-top: -49%;
+  align-items: center;
+}
+.card4h2 {
+  font-family: "Sacramento", cursive;
+  padding-top: 3%;
+  text-align: center;
+  font-size: 450%;
+  color: rgb(138, 120, 71);
+}
+
+.followush1 {
+  font-family: "Sacramento", cursive;
+  padding-top: 3%;
+  text-align: center;
+  font-size: 450%;
+  color: rgb(138, 120, 71);
+}
+.followusp {
+  text-align: left;
+  padding-left: 10%;
+  padding-right: 10%;
+  font-size: 200%;
+  color: rgb(138, 120, 71);
+
+  font-family: "Libre Baskerville", serif;
+}
+.followusbutton {
+  width: 20%;
+  height: 35%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  margin-left: 40%;
+
+  background-color: rgb(138, 120, 71);
+  border-radius: 15px;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}

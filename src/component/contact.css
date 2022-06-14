@@ -1,0 +1,31 @@
+.div1 {
+  width: 100%;
+  height: 40rem;
+  display: grid;
+  background-color: rgb(231, 222, 233);
+}
+
+/* .div2 {
+  padding-top: 4%;
+  padding-bottom: 1%;
+  width: 100%;
+  height: 60rem;
+  padding-left: 25%;
+  background-color: #ddb8c3;
+} */
+.getintouchh1 {
+  font-family: "Sacramento", cursive;
+  padding-top: 3%;
+  text-align: center;
+  font-size: 450%;
+  color: rgb(138, 120, 71);
+}
+.getintouchpara {
+  text-align: left;
+  padding-left: 10%;
+  padding-right: 10%;
+  font-size: 200%;
+  color: rgb(138, 120, 71);
+
+  font-family: "Libre Baskerville", serif;
+}
